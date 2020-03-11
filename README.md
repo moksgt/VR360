@@ -22,12 +22,12 @@ How to start:
 - npm start
 - http://127.0.0.1:8081/index.html
 
-![alt Landing Page](http://moks-bucket.oss-cn-shanghai.aliyuncs.com/public/vr360/Screen%20Shot%202020-03-11%20at%207.47.53%20PM.png?x-oss-process=image/rotate,0/resize,p_70)
+![alt Landing Page](http://moks-bucket.oss-cn-shanghai.aliyuncs.com/public/vr360/Screen%20Shot%202020-03-11%20at%207.47.53%20PM.png?x-oss-process=image/rotate,0/resize,p_50)
 
 
-![alt VR Page](http://moks-bucket.oss-cn-shanghai.aliyuncs.com/public/vr360/Screen%20Shot%202020-03-11%20at%207.47.53%20PM.png?x-oss-process=image/rotate,0/resize,p_70)
+![alt VR Page](http://moks-bucket.oss-cn-shanghai.aliyuncs.com/public/vr360/Screen%20Shot%202020-03-11%20at%207.24.00%20PM.png?x-oss-process=image/rotate,0/resize,p_50)
 
-![alt VR Page](http://moks-bucket.oss-cn-shanghai.aliyuncs.com/public/vr360/Screen%20Shot%202020-03-11%20at%207.24.29%20PM.png?x-oss-process=image/rotate,0/resize,p_70)
+![alt VR Page](http://moks-bucket.oss-cn-shanghai.aliyuncs.com/public/vr360/Screen%20Shot%202020-03-11%20at%207.24.29%20PM.png?x-oss-process=image/rotate,0/resize,p_50)
 
 
 
