@@ -19,3 +19,5 @@ How to start:
 - npm install
 - npm start
 - http://127.0.0.1:8081/index.html
+
+![alt Landing Page](http://moks-bucket.oss-cn-shanghai.aliyuncs.com/public/vr360/Screen%20Shot%202020-03-11%20at%207.23.37%20PM.png)
