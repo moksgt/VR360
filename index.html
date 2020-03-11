@@ -1,0 +1,43 @@
+<html>
+  <head>
+    <title>VR360</title>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <style>body { margin: 0; }</style>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  </head>
+  <body>
+
+     <!-- Landing page -->
+     <div id="initialize">
+        <div id="placeHolder">
+          <div style="background-image:url('./static_assets/huxing.jpg');height:60%;background-position:center;background-repeat: no-repeat;background-size: cover;"></div>
+          <div class="container px-md-3 px-sm-0">
+            <div class="col-md-12 mb-4 white-text text-center wow fadeIn">
+              <h3 class="display-3 font-weight-bold white-text mb-0 pt-md-5 pt-5">VR360</h3>
+              <hr>
+              <h4 class="subtext-header mt-2 mb-4">虚拟漫游带你身临其境，沉浸式的场景体验。</h4>
+              <button type="button" class="btn btn-dark" onClick="enterApp();">立即体验</button>
+            </div>
+          </div>
+        </div>
+    </div>
+
+    <!-- Attachment point for your app -->
+    <div id="container"></div>
+    <script src="./client.bundle?platform=vr"></script>
+    <script src="https://connect.facebook.net/en_US/fbinstant.6.2.js"></script>
+    <script>
+    function enterApp(){
+        // Initialize the React 360 application
+        React360.init(
+          'index.bundle?platform=vr&dev=true',
+          document.getElementById('container'),
+          {
+            bridgeFile: 'NonBlobBridge.js',
+            assetRoot: 'static_assets/',
+          }
+        );
+      }
+    </script>
+  </body>
+</html>
