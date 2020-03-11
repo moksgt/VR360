@@ -5,7 +5,9 @@ There're also inline comments to guide how each part of the sample code works.
 This Project function includes:
 - Landing page
 - Reset surface style
-- Change VR Image
+- Add VrButton
+- Dynamically changing VR Image
+
 
 This Project technique includes:
 - Basic UI and interaction
