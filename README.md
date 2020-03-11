@@ -15,7 +15,7 @@ This Project technique includes:
 
 How to start:
 
-- git clone
+- git clone https://github.com/moksgt/VR360.git
 - npm install
 - npm start
 - http://127.0.0.1:8081/index.html
