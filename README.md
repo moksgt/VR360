@@ -7,6 +7,8 @@ This Project function includes:
 - Reset surface style
 - Add VrButton
 - Dynamically changing VR Image
+- Image Preview （coming soon...)
+- Transition effects (Coming soon...)
 
 
 This Project technique includes:
@@ -14,6 +16,8 @@ This Project technique includes:
 - Basic Audio Control
 - Basic Environment(photo/video) control.
 - Basic UI Animation.
+
+
 
 How to start:
 
